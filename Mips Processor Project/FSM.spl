@@ -1,0 +1,11 @@
+[Inputs]
+I_FSM_CLK
+I_FSM_EN
+=I_FSM_INST[31:0]=
+[Outputs]
+O_FSM_IF
+O_FSM_ID
+O_FSM_EX
+O_FSM_ME
+O_FSM_WB
+[BiDir]

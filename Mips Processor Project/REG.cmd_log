@@ -1,0 +1,4 @@
+vhdtdtfi -lib work REG.vhd -prj MipsProcessor -o REG.spl -module REG -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 REG.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/REG.sym 
+vhdtdtfi -lib work REG.vhd -prj MipsProcessor -o REG.spl -module REG -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 REG.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/REG.sym 

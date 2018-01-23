@@ -1,0 +1,7 @@
+[Inputs]
+I_MUX_Sel
+=I_MUX_0[4:0]=
+=I_MUX_1[4:0]=
+[Outputs]
+=O_MUX_Out[4:0]=
+[BiDir]

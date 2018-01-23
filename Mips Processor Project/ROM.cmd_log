@@ -1,0 +1,8 @@
+vhdtdtfi -lib work ROM.vhd -prj MipsProcessor -o ROM.spl -module ROM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ROM.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/ROM.sym 
+vhdtdtfi -lib work ROM.vhd -prj MipsProcessor -o ROM.spl -module ROM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ROM.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/ROM.sym 
+vhdtdtfi -lib work ROM.vhd -prj MipsProcessor -o ROM.spl -module ROM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ROM.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/ROM.sym 
+vhdtdtfi -lib work ROM.vhd -prj MipsProcessor -o ROM.spl -module ROM -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ROM.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/ROM.sym 

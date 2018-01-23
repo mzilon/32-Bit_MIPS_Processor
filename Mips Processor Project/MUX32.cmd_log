@@ -1,0 +1,4 @@
+vhdtdtfi -lib work MUX32.vhd -prj MipsProcessor -o MUX32.spl -module MUX32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 MUX32.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/MUX32.sym 
+vhdtdtfi -lib work MUX32.vhd -prj MipsProcessor -o MUX32.spl -module MUX32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 MUX32.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/MUX32.sym 

@@ -1,0 +1,6 @@
+vhdtdtfi -lib work PC.vhd -prj MipsProcessor -o PC.spl -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 PC.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/PC.sym 
+vhdtdtfi -lib work PC.vhd -prj MipsProcessor -o PC.spl -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 PC.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/PC.sym 
+vhdtdtfi -lib work PC.vhd -prj MipsProcessor -o PC.spl -module PC -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 PC.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/PC.sym 

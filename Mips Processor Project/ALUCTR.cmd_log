@@ -1,0 +1,4 @@
+vhdtdtfi -lib work ALUCTR.vhd -prj MipsProcessor -o ALUCTR.spl -module ALUCTR -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ALUCTR.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/ALUCTR.sym 
+vhdtdtfi -lib work ALUCTR.vhd -prj MipsProcessor -o ALUCTR.spl -module ALUCTR -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ALUCTR.spl C:/Users/Ahmed/Xilinx_Lab/MipsProcessor/ALUCTR.sym 

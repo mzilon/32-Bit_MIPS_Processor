@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "Z:/__CCNY_SPRING_2017/_CSC 343 - Computer Organization LAB/_ASSIGNMENT/Assignment 5/Lab5/MipsProcessor/Processor_Processor_sch_tb_isim_beh.exe" -prj "Z:/__CCNY_SPRING_2017/_CSC 343 - Computer Organization LAB/_ASSIGNMENT/Assignment 5/Lab5/MipsProcessor/Processor_Processor_sch_tb_beh.prj" "work.Processor_Processor_sch_tb" 
